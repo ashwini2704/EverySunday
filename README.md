@@ -66,7 +66,7 @@ The backend server provides the necessary data and functionality for the Coopera
 
 The live version of Cooperative Bridge 6636 is deployed on Netlify. You can access the application through the following link:
 
-**Netlify Link**: [https://sparkly-salamander-87a5f4.netlify.app/](https://sparkly-salamander-87a5f4.netlify.app/)
+**Netlify Link**: [https://657b1175efe2d327705865a6--incandescent-flan-54a945.netlify.app/](https://657b1175efe2d327705865a6--incandescent-flan-54a945.netlify.app/)
 
 Feel free to explore the features of Cooperative Bridge 6636. If you encounter any issues or have any feedback, you can use the "Feedback" page to share your thoughts with us.
 
